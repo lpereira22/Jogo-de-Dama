@@ -1,0 +1,1 @@
+- Este Jogo de Dama Ainda está em desenvolvimento
